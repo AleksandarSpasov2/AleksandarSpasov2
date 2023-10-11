@@ -10,6 +10,7 @@
 - print(f"- Looking to collaborate on: {looking_to_collaborate}")
 - print(f"- How to reach me: {contact_info}")
 
+We have all started with print("Hello World") and we will all end with it!
 
 <!---
 AleksandarSpasov2/AleksandarSpasov2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
