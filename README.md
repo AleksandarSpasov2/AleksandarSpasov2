@@ -1,8 +1,8 @@
-👋 user = "@AleksandarSpasov2"
-👁️‍🗨️ interests = ["forex trading", "forex algorithms", "crypto bot creation"]
-📚 learning = "Python programming at SoftUni"
-🤝 looking_to_collaborate = "exciting projects related to algorithmic trading and cryptocurrency"
-✉️ contact_info = "Connect with me here on GitHub for collaboration"
+- 👋 user = "@AleksandarSpasov2"
+- 👁️‍🗨️ interests = ["forex trading", "forex algorithms", "crypto bot creation"]
+- 📚 learning = "Python programming at SoftUni"
+- 🤝 looking_to_collaborate = "exciting projects related to algorithmic trading and cryptocurrency"
+-✉️ contact_info = "Connect with me here on GitHub for collaboration"
 
 print(f"Hi, I'm {user}")
 print(f"- Interests: {', '.join(interests)}")
