@@ -1,3 +1,4 @@
+<img align="right" width=120px height=110px alt="side_sticker" src="https://giphy.com/stickers/alphasights-asgif-asgifwhite-asicon-adOrwsP4pTIrbQ6GH2" /> 
 - 👋 user = "@AleksandarSpasov2"
 - 👁️‍🗨️ interests = ["forex trading", "forex algorithms", "crypto bot creation"]
 - 📚 learning = "Python programming at SoftUni"
